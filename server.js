@@ -1,5 +1,6 @@
 import { app } from "./app.js";
-import { connectDB } from "./controllers/database.js";
+import { connectDB } from "<div className="" />
+<data value=""></data>/database.js";
 
 connectDB();
 
